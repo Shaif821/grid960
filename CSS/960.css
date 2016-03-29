@@ -15,6 +15,7 @@
 
 body {
   min-width: 960px;
+    font-family: verdana;
 }
 
 /* `Container
@@ -34,6 +35,7 @@ h1 {
     font-family: Open Sans;
     
 }
+
 #validatie img {
     height: 1em;
     width: auto;
